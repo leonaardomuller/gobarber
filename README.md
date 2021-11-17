@@ -8,7 +8,6 @@
 <p align="center" >
   <a href="#fire-prévia-da-aplicação"> :fire: Prévia da Aplicação</a> |
   <a href="#rocket-tecnologias-usadas"> :rocket: Tecnologias Usadas</a> |
-  <a href="#hammer-deploy-da-aplicação"> :hammer: Deploy da Aplicação</a> |
   <a href="#zap-executando-o-projeto"> :zap: Executando o Projeto </a> 
 </p>
 
@@ -56,7 +55,7 @@ $ docker-compose up -d # Iniciará em background e não irá bloquear o shell
 $ yarn && yarn typeorm migration:run && yarn dev:server
 ```
 
-<a href="https://insomnia.rest/run/?label=gobarber-jvictorfarias&uri=https%3A%2F%2Fgithub.com%2Fjvictorfarias%2FGoBarber%2Fblob%2Fmaster%2Fapi%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=gobarber&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 #### Iniciando o Frontend
 ```sh
