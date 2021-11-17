@@ -55,7 +55,7 @@ $ docker-compose up -d # Iniciará em background e não irá bloquear o shell
 $ yarn && yarn typeorm migration:run && yarn dev:server
 ```
 
-<a href="https://insomnia.rest/run/?label=gobarber&uri=https%3A%2F%2Fgithub.com%2Fleonaardomuller%2Fgobarber%2Fblob%2Fmain%2Fapi%2Fdocs%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=gobarber-leonaardomuller&uri=https%3A%2F%2Fgithub.com%2Fleonaardomuller%2Fgobarber%2Fblob%2Fmain%2Fapi%2Fdocs%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 #### Iniciando o Frontend
 ```sh
